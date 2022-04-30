@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1651334672 source:c:\users\zeuse\onedrive\escritorio\u.t.n\programación\arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../../../pila.h"
+	<string.h>
+	<time.h>
+
+1490112217 source:c:\users\zeuse\onedrive\escritorio\pila.c
+	"pila.h"
+
+1648748422 c:\users\zeuse\onedrive\escritorio\pila.h
+	<stdio.h>
+	<malloc.h>
+
